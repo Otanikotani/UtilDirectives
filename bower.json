@@ -1,0 +1,22 @@
+{
+  "name": "otanikotani-util-directives",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Otanikotani/UtilDirectives",
+  "authors": [
+    "Andrey Artyukhov <andrey.artyukhov@constant.obninsk.ru>"
+  ],
+  "description": "Angular Materialize util directives",
+  "main": "util-directives.js",
+  "keywords": [
+    "angular",
+    "materialize"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
