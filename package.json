@@ -1,0 +1,14 @@
+{
+  "author": "https://github.com/Otanikotani",
+  "name": "otanikotani-util-directives",
+  "description": "Angular materialize util directives",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Otanikotani/UtilDirectives",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Otanikotani/UtilDirectives.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
