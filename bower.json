@@ -11,6 +11,10 @@
     "angular",
     "materialize"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Otanikotani/UtilDirectives.git"
+  },
   "license": "MIT",
   "ignore": [
     "**/.*",
